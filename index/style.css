@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(96, 83, 109);
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.Titulo{
+    text-align: center;
+}
+
+.container {
+  display: flex;       
+  justify-content: center;
+  gap: 40px;
+}
+
+.card {
+  text-align: center;
+}
+
+.card img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.descricao {
+  margin-top: 8px;
+  font-size: 16px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.insta img{
+  width: 50px;
+  display: block;
+  margin: 10 auto;
+  margin-bottom: 10px;
+  white-space: pre-line;
+
+}
