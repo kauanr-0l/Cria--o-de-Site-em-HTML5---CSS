@@ -31,7 +31,16 @@ body{
   text-align: center;
 }
 
-.insta img{
+.insta1 img {
+  width: 50px;
+  display: block;
+  margin: 10 auto;
+  margin-bottom: 10px;
+  white-space: pre-line;
+
+}
+
+.insta2 img {
   width: 50px;
   display: block;
   margin: 10 auto;
