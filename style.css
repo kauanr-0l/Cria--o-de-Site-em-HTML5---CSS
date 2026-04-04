@@ -67,3 +67,27 @@ body{
 .insta p{
     text-align: center;
 }
+
+
+
+.sobre {
+    background-color: #111;   
+    color: white;             
+    width: 80%;               
+    margin:100% 0px;
+    padding: 30px;            
+    border-radius: 12px;      
+    margin-top: 120px;    
+}
+
+.sobre h2 {
+    color: orange;            
+    margin-bottom: 20px;      
+}
+
+
+.sobre p {
+    max-width: 700px;         
+    margin: 0 auto;           
+    line-height: 1.7;         
+}
