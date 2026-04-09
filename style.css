@@ -91,3 +91,8 @@ body{
     margin: 0 auto;           
     line-height: 1.7;         
 }
+
+
+html {
+  scroll-behavior: smooth;
+}
